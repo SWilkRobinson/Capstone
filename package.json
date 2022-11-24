@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "name": "littledb",
   "version": "1.0.0",
@@ -24,7 +24,6 @@
     "mongodb": "^3.7.3"
   }
 }
-=======
 {
   "name": "littledb",
   "version": "1.0.0",
@@ -50,4 +49,3 @@
     "mongodb": "^3.7.3"
   }
 }
->>>>>>> 585eb1dc7b976a0e1da600fb503d585f84f83670
