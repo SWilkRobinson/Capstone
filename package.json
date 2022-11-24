@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "littledb",
   "version": "1.0.0",
@@ -23,3 +24,30 @@
     "mongodb": "^3.7.3"
   }
 }
+=======
+{
+  "name": "littledb",
+  "version": "1.0.0",
+  "description": "lowdb sample for 1.125",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "npm install",
+    "start": "node http_server.js"
+  },
+  "engines": {
+
+    "node": "14.x"
+
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.3.0",
+    "lowdb": "^1.0.0",
+    "mongodb": "^3.7.3"
+  }
+}
+>>>>>>> 585eb1dc7b976a0e1da600fb503d585f84f83670
