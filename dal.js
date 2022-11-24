@@ -1,5 +1,5 @@
 const MongoClient = require('mongodb').MongoClient;
-const url         = 'mongodb://localhost:27017';
+const url         = 'https://git.heroku.com/swilkfullstackbankapp.git';
 let db            = null;
  
 // connect to mongo
